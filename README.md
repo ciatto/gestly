@@ -1,44 +1,48 @@
 # Gestly — Gestão de agendamentos para negócios de serviços
 
-**Gestly** é uma plataforma de gestão de agendamentos do ecossistema **Ciatto**, voltada à organização de horários, serviços, equipes e reservas online para negócios que trabalham com atendimento por horário.
+**Gestly** é uma plataforma de gestão de agendamentos do ecossistema **Ciatto**, desenvolvida para ajudar empresas e profissionais a organizar horários, serviços, equipes e reservas online.
 
-A proposta é reunir, em um único ambiente, recursos para administrar a rotina de atendimento de profissionais e empresas de serviços. O produto está **em evolução**; a disponibilidade de funcionalidades deve ser conferida diretamente na plataforma.
+**Site oficial:** https://gestly.co/
 
-## Acesse a Gestly
+## Uma rotina de atendimentos mais organizada
 
-- **Site oficial:** https://gestly.co/
-- **Conheça o produto:** https://gestly.co/about
-- **Funcionalidades:** https://gestly.co/features
-- **Aplicação:** https://app.gestly.co/
-- **Contato:** https://gestly.co/contact
-- **Ecossistema responsável:** https://ciatto.com.br/a-z
+A Gestly reúne ferramentas para simplificar a organização dos atendimentos, apoiar o trabalho da equipe e oferecer uma experiência de agendamento mais prática para o cliente.
 
-## Para quem é
+### O que você encontra na Gestly
 
-A Gestly foi concebida para negócios com atendimento agendado, incluindo salões de beleza, barbearias, clínicas e prestadores de serviços. O objetivo central é facilitar a gestão de agendamentos e operações relacionadas ao atendimento, não um sistema especializado em estoque ou precificação de produção alimentícia.
+- **Agenda e horários:** organização de compromissos e disponibilidade.
+- **Serviços:** cadastro e organização dos serviços prestados.
+- **Equipe:** gestão dos profissionais envolvidos nos atendimentos.
+- **Reservas online:** experiência digital para marcação de horários.
+- **Gestão do negócio:** informações reunidas para acompanhar a operação.
 
-## Proposta do produto
+A plataforma segue em evolução. Consulte o site oficial para conferir os recursos disponíveis.
 
-- **Agenda:** organização de horários e compromissos.
-- **Serviços:** estruturação dos serviços oferecidos.
-- **Equipe:** administração da operação de profissionais.
-- **Reservas online:** jornada de marcação de horários.
-- **Gestão:** visão integrada da rotina de atendimento.
+## Para quem é a Gestly?
 
-> As descrições apresentam o posicionamento da plataforma, e não uma garantia de que todos os módulos estejam liberados comercialmente.
+A Gestly foi pensada para negócios que trabalham com horários marcados, incluindo:
 
-## Identidade e histórico público
+- Salões de beleza e profissionais da estética.
+- Barbearias e profissionais de cuidados pessoais.
+- Clínicas e estabelecimentos de atendimento com hora marcada.
+- Prestadores de serviços e pequenas equipes.
 
-A Gestly integra o catálogo de iniciativas do Grupo Ciatto. O desenvolvimento do projeto tem registros técnicos verificáveis desde **janeiro de 2025**. Esta página institucional foi publicada em **27 de outubro de 2026** e **não afirma uso público em datas anteriores às evidências disponíveis**.
+## Conheça a plataforma
 
-O nome **Gestly** identifica esta plataforma de gestão de agendamentos. O depósito de pedido de registro de marca no INPI, quando existente, não deve ser confundido com registro já concedido.
+| Página | Link |
+| --- | --- |
+| Site oficial | [gestly.co](https://gestly.co/) |
+| Funcionalidades | [Conhecer recursos](https://gestly.co/features) |
+| Sobre a Gestly | [Conhecer o projeto](https://gestly.co/about) |
+| Aplicação | [Acessar Gestly](https://app.gestly.co/) |
+| Contato | [Fale com a equipe](https://gestly.co/contact) |
 
-## Imprensa, referências e divulgação
+## Gestly e Ciatto
 
-Ao mencionar o produto, prefira a forma **“Gestly — plataforma de gestão de agendamentos do ecossistema Ciatto”**, inclua o endereço oficial https://gestly.co/ e descreva apenas funcionalidades verificadas. Mantenha atribuições, datas e eventuais relações comerciais transparentes.
+A Gestly faz parte do ecossistema de produtos digitais da **Ciatto**, que desenvolve soluções voltadas à tecnologia e à gestão de negócios.
 
-## Sobre este repositório
+[Conheça o ecossistema Ciatto](https://ciatto.com.br/a-z).
 
-Este é um **repositório público exclusivamente institucional e informativo**, criado para concentrar a identidade oficial e referências da Gestly. Ele **não contém o código-fonte privado do produto**, nem concede licença de uso, distribuição ou modificação da plataforma.
+## Sobre este espaço
 
-Para informações sobre dados e condições de uso, consulte o [site oficial](https://gestly.co/).
+Este repositório reúne a apresentação institucional e os canais oficiais da Gestly. Informações sobre a experiência do produto, funcionalidades e atualizações estão disponíveis no [site da Gestly](https://gestly.co/).
